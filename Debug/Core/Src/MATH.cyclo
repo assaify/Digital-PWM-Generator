@@ -1,0 +1,4 @@
+../Core/Src/MATH.c:15:10:MAP	1
+../Core/Src/MATH.c:20:10:Constrain	3
+../Core/Src/MATH.c:36:15:MIN	3
+../Core/Src/MATH.c:51:15:MAX	3

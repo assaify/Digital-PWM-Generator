@@ -1,0 +1,2 @@
+../Drivers/MATH/FIR/FIR.c:16:6:AVG_FIR_LPF	3
+../Drivers/MATH/FIR/FIR.c:38:6:SUM_BUFFER	3
